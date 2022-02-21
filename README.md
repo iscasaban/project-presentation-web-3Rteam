@@ -1,6 +1,6 @@
-![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
+![3R Team - spot DEMO](https://user-images.githubusercontent.com/93005157/154987359-580c93ea-96ad-4c45-a868-aa88d4aed228.jpg)
 
-### [3R TEAM](https://beta.adalab.es/project-promo-o-module-1-team-6/)
+### [3R TEAM](https://iscasaban.github.io/project-presentation-web-3Rteam/)
 
 ## Highlights
 
